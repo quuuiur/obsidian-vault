@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "21_smartcar/硬件电路设计/SY6280_EN_上电时序笔记.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -225,8 +225,8 @@
   },
   "active": "bcd999daa29513fb",
   "lastOpenFiles": [
-    "21_smartcar/硬件电路设计/关于5V上电时序控制一些注意.md",
     "21_smartcar/硬件电路设计/SY6280_EN_上电时序笔记.md",
+    "21_smartcar/硬件电路设计/关于5V上电时序控制一些注意.md",
     "test，这是一个测试笔记.md",
     "21_smartcar/硬件电路设计",
     "21_smartcar",
