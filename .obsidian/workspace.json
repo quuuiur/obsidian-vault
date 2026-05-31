@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21_smartcar/硬件电路设计/MT9V03X_总钻风摄像头_PCB_Layout与接口笔记.md",
+                "file": "test，这是一个测试笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MT9V03X_总钻风摄像头_PCB_Layout与接口笔记"
+              "title": "test，这是一个测试笔记"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "422d06fe8f8a9264",
+  "active": "e73f6427f2d7c028",
   "lastOpenFiles": [
-    "21_smartcar/硬件电路设计/SY6280_EN_上电时序笔记.md",
     "21_smartcar/硬件电路设计/MT9V03X_总钻风摄像头_PCB_Layout与接口笔记.md",
+    "21_smartcar/硬件电路设计/SY6280_EN_上电时序笔记.md",
     "Pasted image 20260517233958.png",
     "test，这是一个测试笔记.md",
     "21_smartcar/硬件电路设计/关于5V上电时序控制一些注意.md",
